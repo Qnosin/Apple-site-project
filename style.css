@@ -1,0 +1,124 @@
+html{
+  margin: 0;
+}
+body{
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#container{
+  height: 1216px;
+}
+.apple{ 
+  display: inline;
+  color:#e1e1f7;
+  margin-left: 220px;
+  
+}
+#header{
+  height: 40px;
+  background-color: #777778;
+  padding-top: 20px;
+}
+ul{
+  margin: 0;
+}
+.apple:hover{
+  color: #f2f2f5;
+  cursor: pointer;
+}
+#logo{
+  width: 45px;
+  height: 30px;
+  float: left;
+}
+#logo:hover{
+  cursor: pointer;
+}
+#info1{
+  clear: both;
+  height: 50px;
+  background-color: blue;
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+#covid{
+  padding-top: 15px;
+  text-align: center;
+}
+#covid:hover{
+   text-decoration: underline; 
+   text-decoration-color: white;
+   cursor: pointer;
+}
+#info2{
+  height: 50px;
+}
+#shopping{
+  padding-top: 15px;
+  text-align: center;
+}
+#link{
+  text-decoration: none;
+  color: blue;
+}
+#link:hover{
+  text-decoration: underline;
+}
+#phone1{
+  height: 600px;
+  background-color: #28290f;
+}
+#iphone1{
+  display: block;
+  height: 500px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+#BigTag{
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  font-size: 40px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#firstsign{
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  font-size: 30px;
+  color: white;
+}
+#secendsign{
+  position: absolute;
+  top: 58%;
+  left: 9%;
+  font-size: 30px;
+  color: white;
+
+}
+#button1{
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  font-size: 30px;
+  color: blue;
+}
+#button2{
+  position: absolute;
+  top: 80%;
+  left: 12%;
+  font-size: 30px;
+  color: blue;
+}
+#button1:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+#button2:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
